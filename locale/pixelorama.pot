@@ -1,0 +1,167 @@
+# Translations template for Pixelorama.
+# Copyright (C) 2019 OverloadedOrama
+# This file is distributed under the same license as the Pixelorama project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixelorama 0.4\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-11-21 14:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: ../Main.tscn:75
+msgid "File"
+msgstr ""
+
+#: ../Main.tscn:82
+msgid "Edit"
+msgstr ""
+
+#: ../Main.tscn:89
+msgid "View"
+msgstr ""
+
+#: ../Main.tscn:96
+msgid "Help"
+msgstr ""
+
+#: ../Main.tscn:110
+msgid "Zoom: x7.81"
+msgstr ""
+
+#: ../Main.tscn:117
+msgid "[64x64]"
+msgstr ""
+
+#: ../Main.tscn:161
+msgid "Selection Tools"
+msgstr ""
+
+#: ../Main.tscn:196
+msgid "Draw Tools"
+msgstr ""
+
+#: ../Main.tscn:264
+msgid "PaintSameColor"
+msgstr ""
+
+#: ../Main.tscn:287
+msgid "Left tool options"
+msgstr ""
+
+#: ../Main.tscn:296
+msgid "Left cursor"
+msgstr ""
+
+#: ../Main.tscn:312 ../Main.tscn:414
+msgid "Brush size: "
+msgstr ""
+
+#: ../Main.tscn:327 ../Main.tscn:429
+msgid "Brush color from"
+msgstr ""
+
+#: ../Main.tscn:339 ../Main.tscn:441
+msgid "B"
+msgstr ""
+
+#: ../Main.tscn:358 ../Main.tscn:460
+msgid "C"
+msgstr ""
+
+#: ../Main.tscn:366 ../Main.tscn:468
+msgid "Horiz. Mirror"
+msgstr ""
+
+#: ../Main.tscn:374 ../Main.tscn:476
+msgid "Vert. Mirror"
+msgstr ""
+
+#: ../Main.tscn:390
+msgid "Right tool options"
+msgstr ""
+
+#: ../Main.tscn:398
+msgid "Right cursor"
+msgstr ""
+
+#: ../Main.tscn:624
+msgid "Current frame: 1/1"
+msgstr ""
+
+#: ../Main.tscn:782
+msgid "Future Steps"
+msgstr ""
+
+#: ../Main.tscn:795
+msgid "Blue-Red Mode"
+msgstr ""
+
+#: ../Main.tscn:819
+msgid "Layers"
+msgstr ""
+
+#: ../Main.tscn:979
+msgid "<"
+msgstr ""
+
+#: ../Main.tscn:995 ../Main.tscn:1123
+msgid "Image Size"
+msgstr ""
+
+#: ../Main.tscn:1007 ../Main.tscn:1135
+msgid "Width: "
+msgstr ""
+
+#: ../Main.tscn:1027 ../Main.tscn:1156
+msgid "Height:"
+msgstr ""
+
+#: ../Main.tscn:1047
+msgid "Fill with color: "
+msgstr ""
+
+#: ../Main.tscn:1176
+msgid "Interpolation:"
+msgstr ""
+
+#: ../Main.tscn:1182
+msgid "Nearest"
+msgstr ""
+
+#: ../Main.tscn:1228
+msgid "Website"
+msgstr ""
+
+#: ../Main.tscn:1234
+msgid "GitHub Repo"
+msgstr ""
+
+#: ../Main.tscn:1240
+msgid "Donate"
+msgstr ""
+
+#: ../Prefabs/BrushButton.tscn:30
+msgid "X"
+msgstr ""
+
+#: ../Prefabs/FrameButton.tscn:40
+msgid "0"
+msgstr ""
+
+#: ../Prefabs/LayerContainer.tscn:45 ../Prefabs/LayerContainer.tscn:53
+msgid "Layer 0"
+msgstr ""
+
+#: ../Prefabs/NotificationLabel.tscn:9
+msgid "Undo: Notification"
+msgstr ""
+

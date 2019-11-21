@@ -96,7 +96,6 @@ mouse_default_cursor_shape = 2
 text = "Help"
 
 [node name="HBoxContainer" type="HBoxContainer" parent="MenuAndUI/MenuContainer"]
-editor/display_folded = true
 anchor_left = 0.5
 anchor_right = 0.5
 anchor_bottom = 1.0
@@ -269,7 +268,6 @@ margin_right = 226.0
 margin_bottom = 308.0
 
 [node name="ToolOptions" type="HBoxContainer" parent="MenuAndUI/UI/ToolPanel/Tools"]
-editor/display_folded = true
 margin_top = 312.0
 margin_right = 226.0
 margin_bottom = 612.0
@@ -563,7 +561,6 @@ margin_right = 319.0
 margin_bottom = 464.0
 
 [node name="ViewportContainer2" type="ViewportContainer" parent="MenuAndUI/UI/CanvasAndTimeline/HViewportContainer"]
-editor/display_folded = true
 visible = false
 margin_left = 319.0
 margin_right = 634.0
@@ -584,7 +581,6 @@ zoom = Vector2( 0.15, 0.15 )
 script = ExtResource( 11 )
 
 [node name="AnimationTimeline" type="Panel" parent="MenuAndUI/UI/CanvasAndTimeline"]
-editor/display_folded = true
 margin_top = 478.0
 margin_right = 686.0
 margin_bottom = 620.0
@@ -610,7 +606,6 @@ margin_bottom = 138.0
 size_flags_horizontal = 3
 
 [node name="AnimationButtons" type="Control" parent="MenuAndUI/UI/CanvasAndTimeline/AnimationTimeline/AnimationContainer/TimelineContainer"]
-editor/display_folded = true
 margin_right = 525.0
 margin_bottom = 24.0
 rect_min_size = Vector2( 0, 24 )
@@ -624,7 +619,6 @@ margin_bottom = 7.0
 text = "Current frame: 1/1"
 
 [node name="PlaybackButtons" type="HBoxContainer" parent="MenuAndUI/UI/CanvasAndTimeline/AnimationTimeline/AnimationContainer/TimelineContainer/AnimationButtons"]
-editor/display_folded = true
 anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
@@ -825,13 +819,11 @@ margin_right = 224.0
 margin_bottom = 21.0
 
 [node name="CenterContainer" type="CenterContainer" parent="MenuAndUI/UI/LayerPanel/LayersAndMisc"]
-editor/display_folded = true
 margin_top = 24.0
 margin_right = 224.0
 margin_bottom = 56.0
 
 [node name="LayerButtons" type="HBoxContainer" parent="MenuAndUI/UI/LayerPanel/LayersAndMisc/CenterContainer"]
-editor/display_folded = true
 margin_left = 6.0
 margin_right = 218.0
 margin_bottom = 32.0
@@ -892,7 +884,6 @@ texture_normal = ExtResource( 32 )
 texture_disabled = ExtResource( 33 )
 
 [node name="ScrollContainer" type="ScrollContainer" parent="MenuAndUI/UI/LayerPanel/LayersAndMisc"]
-editor/display_folded = true
 margin_top = 59.0
 margin_right = 224.0
 margin_bottom = 523.0
@@ -909,7 +900,6 @@ margin_right = 224.0
 margin_bottom = 530.0
 
 [node name="TabContainer" type="TabContainer" parent="MenuAndUI/UI/LayerPanel/LayersAndMisc"]
-editor/display_folded = true
 margin_top = 533.0
 margin_right = 224.0
 margin_bottom = 605.0
@@ -927,13 +917,11 @@ size_flags_horizontal = 3
 scroll_horizontal_enabled = false
 
 [node name="FileBrushContainer" type="GridContainer" parent="MenuAndUI/UI/LayerPanel/LayersAndMisc/TabContainer/File"]
-editor/display_folded = true
 margin_right = 36.0
 margin_bottom = 36.0
 columns = 5
 
 [node name="PixelBrushButton" parent="MenuAndUI/UI/LayerPanel/LayersAndMisc/TabContainer/File/FileBrushContainer" instance=ExtResource( 34 )]
-editor/display_folded = true
 hint_tooltip = "Pixel brush"
 
 [node name="LeftBrushIndicator" type="Sprite" parent="MenuAndUI/UI/LayerPanel/LayersAndMisc/TabContainer/File/FileBrushContainer/PixelBrushButton"]
@@ -979,7 +967,6 @@ toggle_mode = true
 text = "<"
 
 [node name="CreateNewImage" type="ConfirmationDialog" parent="."]
-editor/display_folded = true
 margin_right = 200.0
 margin_bottom = 70.0
 
@@ -995,7 +982,6 @@ margin_bottom = 14.0
 text = "Image Size"
 
 [node name="WidthCont" type="HBoxContainer" parent="CreateNewImage/VBoxContainer"]
-editor/display_folded = true
 margin_top = 18.0
 margin_right = 184.0
 margin_bottom = 42.0
@@ -1061,8 +1047,8 @@ resizable = true
 mode = 0
 access = 2
 filters = PoolStringArray( "*.pxo ; Pixelorama Project" )
-current_dir = "C:/Users/Overloaded/Dropbox/Orama Founding Members/εταιρικα αρχεια/Godot Projects/Pixelorama"
-current_path = "C:/Users/Overloaded/Dropbox/Orama Founding Members/εταιρικα αρχεια/Godot Projects/Pixelorama/"
+current_dir = "/home/hugo/Documents/Godot/Pixelorama"
+current_path = "/home/hugo/Documents/Godot/Pixelorama/"
 
 [node name="SaveSprite" type="FileDialog" parent="."]
 anchor_left = 0.5
@@ -1076,8 +1062,8 @@ margin_bottom = 48.0
 resizable = true
 access = 2
 filters = PoolStringArray( "*.pxo ; Pixelorama Project" )
-current_dir = "C:/Users/Overloaded/Dropbox/Orama Founding Members/εταιρικα αρχεια/Godot Projects/Pixelorama"
-current_path = "C:/Users/Overloaded/Dropbox/Orama Founding Members/εταιρικα αρχεια/Godot Projects/Pixelorama/"
+current_dir = "/home/hugo/Documents/Godot/Pixelorama"
+current_path = "/home/hugo/Documents/Godot/Pixelorama/"
 
 [node name="ImportSprites" type="FileDialog" parent="."]
 margin_right = 515.0
@@ -1087,8 +1073,8 @@ resizable = true
 mode = 1
 access = 2
 filters = PoolStringArray( "*.bmp ; BMP Image", "*.hdr ; Radiance HDR Image", "*.jpg,*.jpeg ; JPEG Image", "*.png ; PNG Image", "*.svg ; SVG Image", "*.tga ; TGA Image", "*.webp ; WebP Image" )
-current_dir = "C:/Users/Overloaded/Dropbox/Orama Founding Members/εταιρικα αρχεια/Godot Projects/Pixelorama"
-current_path = "C:/Users/Overloaded/Dropbox/Orama Founding Members/εταιρικα αρχεια/Godot Projects/Pixelorama/"
+current_dir = "/home/hugo/Documents/Godot/Pixelorama"
+current_path = "/home/hugo/Documents/Godot/Pixelorama/"
 
 [node name="ExportSprites" type="FileDialog" parent="."]
 anchor_left = 0.5
@@ -1103,11 +1089,10 @@ window_title = "Export sprite"
 resizable = true
 access = 2
 filters = PoolStringArray( "*.png ; PNG Image" )
-current_dir = "C:/Users/Overloaded/Dropbox/Orama Founding Members/εταιρικα αρχεια/Godot Projects/Pixelorama"
-current_path = "C:/Users/Overloaded/Dropbox/Orama Founding Members/εταιρικα αρχεια/Godot Projects/Pixelorama/"
+current_dir = "/home/hugo/Documents/Godot/Pixelorama"
+current_path = "/home/hugo/Documents/Godot/Pixelorama/"
 
 [node name="ScaleImage" type="ConfirmationDialog" parent="."]
-editor/display_folded = true
 margin_right = 200.0
 margin_bottom = 114.0
 
@@ -1123,7 +1108,6 @@ margin_bottom = 14.0
 text = "Image Size"
 
 [node name="WidthCont" type="HBoxContainer" parent="ScaleImage/VBoxContainer"]
-editor/display_folded = true
 margin_top = 18.0
 margin_right = 184.0
 margin_bottom = 42.0
@@ -1144,7 +1128,6 @@ value = 64.0
 suffix = "px"
 
 [node name="HeightCont" type="HBoxContainer" parent="ScaleImage/VBoxContainer"]
-editor/display_folded = true
 margin_top = 46.0
 margin_right = 184.0
 margin_bottom = 70.0
@@ -1184,7 +1167,6 @@ items = [ "Nearest", null, false, 0, null, "Bilinear", null, false, 1, null, "Cu
 selected = 0
 
 [node name="AboutDialog" type="AcceptDialog" parent="."]
-editor/display_folded = true
 margin_right = 284.0
 margin_bottom = 186.0
 window_title = "About Pixelorama"

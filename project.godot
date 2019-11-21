@@ -178,6 +178,10 @@ toggle_fullscreen={
  ]
 }
 
+[locale]
+
+translations=PoolStringArray( "res://locale/fr.po" )
+
 [rendering]
 
 quality/driver/driver_name="GLES2"

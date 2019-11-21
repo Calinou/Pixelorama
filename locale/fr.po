@@ -1,0 +1,167 @@
+# Translations template for Pixelorama.
+# Copyright (C) 2019 OverloadedOrama
+# This file is distributed under the same license as the Pixelorama project.
+# Hugo Locurcio <hugo.locurcio@hugo.pro>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixelorama 0.4\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-11-21 14:52+0100\n"
+"PO-Revision-Date: 2019-11-21 14:54+0100\n"
+"Last-Translator: Hugo Locurcio <hugo.locurcio@hugo.pro>\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../Main.tscn:75
+msgid "File"
+msgstr "Fichier"
+
+#: ../Main.tscn:82
+msgid "Edit"
+msgstr "Édition"
+
+#: ../Main.tscn:89
+msgid "View"
+msgstr "Affichage"
+
+#: ../Main.tscn:96
+msgid "Help"
+msgstr "Aide"
+
+#: ../Main.tscn:110
+msgid "Zoom: x7.81"
+msgstr "Zoom: x7.81"
+
+#: ../Main.tscn:117
+msgid "[64x64]"
+msgstr "[64x64]"
+
+#: ../Main.tscn:161
+msgid "Selection Tools"
+msgstr "Outils de sélection"
+
+#: ../Main.tscn:196
+msgid "Draw Tools"
+msgstr "Outils de dessin"
+
+#: ../Main.tscn:264
+msgid "PaintSameColor"
+msgstr "Peindre avec la même couleur"
+
+#: ../Main.tscn:287
+msgid "Left tool options"
+msgstr "Options de l'outil gauche"
+
+#: ../Main.tscn:296
+msgid "Left cursor"
+msgstr "Curseur gauche"
+
+#: ../Main.tscn:312 ../Main.tscn:414
+msgid "Brush size: "
+msgstr "Taille de la brosse : "
+
+#: ../Main.tscn:327 ../Main.tscn:429
+msgid "Brush color from"
+msgstr "Couleur de la brosse depuis"
+
+#: ../Main.tscn:339 ../Main.tscn:441
+msgid "B"
+msgstr "B"
+
+#: ../Main.tscn:358 ../Main.tscn:460
+msgid "C"
+msgstr "C"
+
+#: ../Main.tscn:366 ../Main.tscn:468
+msgid "Horiz. Mirror"
+msgstr "Miroir horizontal"
+
+#: ../Main.tscn:374 ../Main.tscn:476
+msgid "Vert. Mirror"
+msgstr "Miroir vertical"
+
+#: ../Main.tscn:390
+msgid "Right tool options"
+msgstr "Options de l'outil droit"
+
+#: ../Main.tscn:398
+msgid "Right cursor"
+msgstr "Curseur droit"
+
+#: ../Main.tscn:624
+msgid "Current frame: 1/1"
+msgstr "Image actuelle : 1/1"
+
+#: ../Main.tscn:782
+msgid "Future Steps"
+msgstr ""
+
+#: ../Main.tscn:795
+msgid "Blue-Red Mode"
+msgstr "Mode bleu-rouge"
+
+#: ../Main.tscn:819
+msgid "Layers"
+msgstr "Calques"
+
+#: ../Main.tscn:979
+msgid "<"
+msgstr "<"
+
+#: ../Main.tscn:995 ../Main.tscn:1123
+msgid "Image Size"
+msgstr "Taille de l'image"
+
+#: ../Main.tscn:1007 ../Main.tscn:1135
+msgid "Width: "
+msgstr "Largeur : "
+
+#: ../Main.tscn:1027 ../Main.tscn:1156
+msgid "Height:"
+msgstr "Hauteur :"
+
+#: ../Main.tscn:1047
+msgid "Fill with color: "
+msgstr "Remplir avec la couleur : "
+
+#: ../Main.tscn:1176
+msgid "Interpolation:"
+msgstr "Interpolation :"
+
+#: ../Main.tscn:1182
+msgid "Nearest"
+msgstr "Le plus proche"
+
+#: ../Main.tscn:1228
+msgid "Website"
+msgstr "Site Web"
+
+#: ../Main.tscn:1234
+msgid "GitHub Repo"
+msgstr "Dépôt GitHub"
+
+#: ../Main.tscn:1240
+msgid "Donate"
+msgstr "Faire un don"
+
+#: ../Prefabs/BrushButton.tscn:30
+msgid "X"
+msgstr "X"
+
+#: ../Prefabs/FrameButton.tscn:40
+msgid "0"
+msgstr "0"
+
+#: ../Prefabs/LayerContainer.tscn:45 ../Prefabs/LayerContainer.tscn:53
+msgid "Layer 0"
+msgstr "Calque 0"
+
+#: ../Prefabs/NotificationLabel.tscn:9
+msgid "Undo: Notification"
+msgstr "Annuler : Notification"
